@@ -6,7 +6,7 @@ One record per costumer
 
 **bold** _italic_
 
-| table       | Tabletado |
-| ----------- | --------- |
-| description | carapolla |
+| table | Tabletado |  | table | Tabletado |
+| ----- | --------- || ----------- | --------- |
+| description | carapolla || description | carapolla |
 {% enddocs %}
